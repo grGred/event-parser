@@ -1,9 +1,9 @@
-Event parser of USDT token.
+### Event parser of USDT token
 
 To setup script:
 
-$ npm i
+`$ npm i`
 
 To run:
 
-$ node src/main.js   
+`$ node src/main.js` 
